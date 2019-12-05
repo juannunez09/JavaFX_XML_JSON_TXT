@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+	<item>
+	<nombre>Ana</nombre>
+	<ciudad>Toledo</ciudad>
+	<salario>2000</salario>
+	</item>
+	
+</config>

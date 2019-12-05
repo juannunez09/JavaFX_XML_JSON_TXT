@@ -1,0 +1,1 @@
+[Juan, Madrid, 1500, Rocio, Cordoba, 2500, Pilar, Barcelona, 1900]

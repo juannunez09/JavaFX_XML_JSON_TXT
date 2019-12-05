@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<item>
+		<nombre>Juan</nombre>
+		<ciudad>Madrid</ciudad>
+		<salario>1500</salario>
+	</item>
+	<item>
+		<nombre>Rocio</nombre>
+		<ciudad>Cordoba</ciudad>
+		<salario>2500</salario>
+	</item>
+	<item>
+		<nombre>Pilar</nombre>
+		<ciudad>Barcelona</ciudad>
+		<salario>1900</salario>
+	</item>
+</config>
